@@ -9,13 +9,13 @@
 </span>
 
 📍 Based in Seoul  
-🚀 Curiosity-driven Web Developer, exploring new technologies and building valuable things.
+🚀 Curiosity-driven Web Developer, who enjoys exploring new technologies and building valuable things.
 
 
 
 ### Tech Stack
 <div style="background:#fef7f0; padding:18px; border-radius:12px; display:inline-block;">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,sql,html,css,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,,react,ts,js,,docker,git" alt="Tech Stack" />
 </div>
 
 
@@ -43,11 +43,10 @@
 
 
 ### Latest Blog Posts  
-https://velog.io/@be_zion  
-
-
+<!-- LATEST_BLOG_POSTS:start -->
+<!-- LATEST_BLOG_POSTS:end -->
 ### Links  
-📦 GitHub: https://github.com/sieun0322  
+<img src="https://skillicons.dev/icons?i=github" width="24" /> GitHub: https://github.com/sieun0322  
 🌐 Portfolio: https://zionlee.website  
 ✍️ Blog: https://velog.io/@be_zion  
 
