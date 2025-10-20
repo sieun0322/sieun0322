@@ -1,69 +1,59 @@
-## Hi there 👋
+<div>
 
-<!--
-**sieun0322/sieun0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm <span style="color:#f97316;"><b>Sieun Lee</b></span>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="display:inline-block; background:#fef7f0; color:#f97316; padding:6px 12px; border-radius:12px; font-weight:600; font-size:14px;">
 
-<!-- 헤더 배너나 이미지 추가 예정 시 여기에 삽입 -->
+</span>
 
-<h1 align="center">👋 Hi, I'm <strong>Sieun Lee</strong></h1>
-<h3 align="center">Curiosity-driven Web Developer</h3>
+📍 Based in Seoul  
+🚀 Curiosity-driven Web Developer, exploring new technologies and building valuable things.
 
----
 
-### ✨ About Me
-Seoul-based, curiosity-driven web developer who enjoys exploring new technologies and unique experiences.
 
----
+### Tech Stack
+<div style="background:#fef7f0; padding:18px; border-radius:12px; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,sql,html,css,git" alt="Tech Stack" />
+</div>
 
-### 🛠 Tech Stack
-✅ 주로 사용하는 기술들:
-- Java · Spring  
-- React · TypeScript  
-- SQL  
 
----
 
-### 📂 Featured Projects
+### Featured Projects
+
+<div style="text-align:left; display:inline-block; background:#fef7f0; padding:20px; border-radius:12px; width:90%; max-width:600px;">
+
 | Project | Description |
 |---------|------------|
-| [`lifepuzzle-rn`](https://github.com/itmca/lifepuzzle-rn) | React Native 기반 퍼즐형 앱 |
-| [`zion-web`](https://github.com/sieun0322/zion-web) | 개인 홈서버 구축 프로젝트 |
+| [`lifepuzzle-rn`](https://github.com/itmca/lifepuzzle-rn) | React Native 기반 자기 기록 어플리케이션 |
+| [`zion-web`](https://github.com/sieun0322/zion-web) | Mac Mini 기반 홈서버 구축 및 배포 자동화 |
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sieun0322&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats"/>
-</p>
 
----
+</div>
 
-### 📝 Latest Blog Posts
-- [cuppin](https://velog.io/@be_zion)
 
-<!-- Velog 최신 글 자동 업데이트 원하면 나중에 API 위젯 추가 가능 -->
 
----
+### GitHub Stats
+<div style="background:#fef7f0; padding:20px; border-radius:12px; display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sieun0322&show_icons=true&hide_title=true&title_color=f97316&icon_color=f97316&text_color=000&bg_color=fef7f0&hide_border=true" />
+</div>
 
-### 🌐 Contact & Links
-| 플랫폼 | 링크 |
-|--------|------|
-| 🏠 Portfolio | https://zionlee.website |
-| 🐱 GitHub | https://github.com/sieun0322 |
-| ✍️ Velog | https://velog.io/@be_zion |
 
----
 
-💡 *“Driven by curiosity, always exploring.”*  
+### Latest Blog Posts  
+https://velog.io/@be_zion  
+
+
+### Links  
+📦 GitHub: https://github.com/sieun0322  
+🌐 Portfolio: https://zionlee.website  
+✍️ Blog: https://velog.io/@be_zion  
+
+
+
+> 💡 *"Always moving forward with curiosity and new experiences."*  
+
+</div>
+
