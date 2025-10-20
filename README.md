@@ -43,8 +43,8 @@
 
 
 ### Latest Blog Posts  
-<!-- LATEST_BLOG_POSTS:start -->
-<!-- LATEST_BLOG_POSTS:end -->
+<!-- LATEST_BLOG_POSTS:START --> <!-- LATEST_BLOG_POSTS:END -->
+
 ### Links  
 <img src="https://skillicons.dev/icons?i=github" width="24" /> GitHub: https://github.com/sieun0322  
 🌐 Portfolio: https://zionlee.website  
