@@ -12,7 +12,7 @@
         steps:
           - uses: actions/checkout@v4
           - name: Fetch and inject latest blog posts
-            uses: sieun0322/blog-post-workflow@v1
+            uses: gautamkrishnar/blog-post-workflow@v1
             with:
               # Velog 사용자 이름에 해당하는 피드 URL을 사용합니다.
               feed_list: "https://v2.velog.io/rss/be_zion"
