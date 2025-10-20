@@ -34,12 +34,12 @@
 </div>
 
 
-
+<!--
 ### GitHub Stats
 <div style="background:#fef7f0; padding:20px; border-radius:12px; display:inline-block;">
   <img src="https://github-readme-stats.vercel.app/api?username=sieun0322&show_icons=true&hide_title=true&title_color=f97316&icon_color=f97316&text_color=000&bg_color=fef7f0&hide_border=true" />
 </div>
-
+-->
 
 
 ### Latest Blog Posts  
