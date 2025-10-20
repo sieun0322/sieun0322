@@ -20,7 +20,7 @@
 
 
 
-### Featured Projects
+### Side Projects
 
 <div style="text-align:left; display:inline-block; background:#fef7f0; padding:20px; border-radius:12px; width:90%; max-width:600px;">
 
