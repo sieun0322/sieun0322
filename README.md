@@ -44,7 +44,7 @@
 
 ### Latest Blog Posts  
 <!-- LATEST_BLOG_POSTS:START -->
-- [📚 TDD&lpar;테스트 주도 개발&rpar; 학습 및 `@SpringBootTest` 빌드 속도 저하 트러블 슈팅](https://velog.io/@be_zion/TDD%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%ED%95%99%EC%8A%B5-%EB%B0%8F-SpringBootTest-%EB%B9%8C%EB%93%9C-%EC%86%8D%EB%8F%84-%EC%A0%80%ED%95%98-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+- [📚 TDD&lpar;테스트 주도 개발&rpar; 학습 및 `@SpringBootTest` 빌드 속도 저하 트러블 슈팅](https://velog.io/@be_zion/TDD)
 - [React Native New Architecture와 iOS 외부 앱 이미지 공유 시스템 구현기&lpar;Claude&rpar;](https://velog.io/@be_zion/React-Native-New-Architecture%EC%99%80-iOS-%EC%99%B8%EB%B6%80-%EC%95%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B3%B5%EC%9C%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%EA%B8%B0Claude)
 - [React Native New Architecture와 Android 외부 앱 이미지 공유 시스템 구현기&lpar;Claude&rpar;](https://velog.io/@be_zion/React-Native-New-Architecture%EC%99%80-%EC%99%B8%EB%B6%80-%EC%95%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B3%B5%EC%9C%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%EA%B8%B0Claude)
 - [macOS 10.15 홈서버 구축 -&lpar;3&rpar;CI/CD](https://velog.io/@be_zion/macOS-10.15-%ED%99%88%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95-4CICD)
