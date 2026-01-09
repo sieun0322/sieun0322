@@ -44,7 +44,6 @@
 
 ### Latest Blog Posts  
 <!-- LATEST_BLOG_POSTS:START -->
-- [루퍼스 10주 회고 – 설계와 판단의 기준 변화](https://velog.io/@be_zion/%EB%A3%A8%ED%8D%BC%EC%8A%A4-10%EC%A3%BC-%ED%9A%8C%EA%B3%A0-%EC%84%A4%EA%B3%84%EC%99%80-%ED%8C%90%EB%8B%A8%EC%9D%98-%EA%B8%B0%EC%A4%80-%EB%B3%80%ED%99%94)
 - [랭킹은 로그가 아니다: Redis로 안정적인 상품 랭킹 만들기](https://velog.io/@be_zion/%EB%9E%AD%ED%82%B9%EC%9D%80-%EB%A1%9C%EA%B7%B8%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-Redis%EB%A1%9C-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%83%81%ED%92%88-%EB%9E%AD%ED%82%B9-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Kafka에서 중복 이벤트를 전제로 설계해야 하는 이유와 처리 전략](https://velog.io/@be_zion/Kafka%EC%97%90%EC%84%9C-%EC%A4%91%EB%B3%B5-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EC%A0%84%EC%A0%9C%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%B2%98%EB%A6%AC-%EC%A0%84%EB%9E%B5)
 - [🧩 Spring Application Event로 주문 생성 트랜잭션 분리하기](https://velog.io/@be_zion/Spring-Application-Event%EB%A1%9C-%EC%A3%BC%EB%AC%B8-%EC%83%9D%EC%84%B1-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
