@@ -57,7 +57,7 @@
 <!-- LATEST_BLOG_POSTS:END -->
 
 
-### 🛠 Open Source Contributions
+### Open Source Contribution
 <div style="background:#fef7f0; padding:20px; border-radius:12px; width:95%; max-width:700px;">
 
 #### [Spring Data JPA](https://github.com/spring-projects/spring-data-jpa)
@@ -68,10 +68,12 @@
   - Successfully merged and backported to maintenance versions.
 </div>
 
+<!-- 
 ### Tech Stack
 <div style="background:#fef7f0; padding:18px; border-radius:12px; display:inline-block;">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github" alt="Tech Stack" />
 </div>
+-->
 
 ### Links
 <div style="display: flex; gap: 10px;">
