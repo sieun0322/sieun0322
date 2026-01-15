@@ -7,7 +7,7 @@
 📍 Based in Seoul  
 🚀 Curiosity-driven Web Developer, who enjoys exploring new technologies and deep-diving into framework internals.
 
-### 🚀 Featured Projects & Engineering
+### Featured Projects & Engineering
 
 <div style="background:#fef7f0; padding:20px; border-radius:12px; margin-bottom:16px; border-left: 5px solid #f97316;">
   <div style="margin-bottom:8px;">
