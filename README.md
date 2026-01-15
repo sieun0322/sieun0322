@@ -15,11 +15,11 @@
     <span style="color:#f97316; font-size:12px; margin-left:8px; font-weight:bold;">E-COMMERCE BACKEND</span>
   </div>
   <p style="margin:5px 0; color:#333; font-weight:600;">Scalable architecture reflecting large-scale system design.</p>
-  <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
+  <!-- <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
     <li><b>Scalability:</b> Event-driven processing with <b>Kafka</b> and real-time ranking using <b>Redis</b>.</li>
     <li><b>Reliability:</b> Core business logic validated through rigorous <b>TDD</b>.</li>
     <li><b>Performance:</b> Large-scale data handling with <b>Spring Batch</b> and specialized <b>Query Optimization</b>.</li>
-  </ul>
+  </ul> -->
 </div>
 
 <div style="background:#fef7f0; padding:20px; border-radius:12px; margin-bottom:16px; border-left: 5px solid #f97316;">
@@ -28,11 +28,11 @@
     <span style="color:#f97316; font-size:12px; margin-left:8px; font-weight:bold;">CROSS-PLATFORM APP</span>
   </div>
   <p style="margin:5px 0; color:#333; font-weight:600;">Mobile frontend for intergenerational story archiving.</p>
-  <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
+ <!--  <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
     <li><b>Migration:</b> <b>React Native</b> version upgrades and resolved complex dependency conflicts.</li>
     <li><b>Operations:</b> Experienced the full release cycle and deployment to <b>App Store & Play Store</b>.</li>
     <li><b>UX Engineering:</b> Implemented friendly interfaces with focus on high accessibility standards.</li>
-  </ul>
+  </ul> -->
 </div>
 
 <div style="background:#fef7f0; padding:20px; border-radius:12px; margin-bottom:16px; border-left: 5px solid #f97316;">
@@ -41,10 +41,10 @@
     <span style="color:#f97316; font-size:12px; margin-left:8px; font-weight:bold;">INFRASTRUCTURE</span>
   </div>
   <p style="margin:5px 0; color:#333; font-weight:600;">Self-hosted automation and server infrastructure.</p>
-  <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
+  <!-- <ul style="margin:8px 0 0 0; padding-left:18px; font-size:14.5px; color:#555; line-height:1.6;">
     <li><b>CI/CD:</b> Automated deployment pipelines using <b>GitHub Actions</b> and <b>Docker</b> on a Mac Mini server.</li>
     <li><b>Networking:</b> Established secure external access by integrating **Cloudflared (Tunnel)** with **Nginx** reverse proxy.</li>
-  </ul>
+  </ul> -->
 </div>
 
 ### Latest Blog Posts  
