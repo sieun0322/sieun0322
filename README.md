@@ -49,11 +49,11 @@
 
 ### Latest Blog Posts  
 <!-- LATEST_BLOG_POSTS:START -->
+- [Claude API를 서비스에 붙이면서 — 스트리밍, 시뮬레이션 제어, 토큰 절약](https://velog.io/@be_zion/Claude-API%EB%A5%BC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EB%B6%99%EC%9D%B4%EB%A9%B4%EC%84%9C-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-%EC%A0%9C%EC%96%B4-%ED%86%A0%ED%81%B0-%EC%A0%88%EC%95%BD)
 - [Claude API](https://velog.io/@be_zion/Claude-API)
 - [증권거래소- Matching Engine 구조 정리](https://velog.io/@be_zion/%EC%A6%9D%EA%B6%8C%EA%B1%B0%EB%9E%98%EC%86%8C-Matching-Engine-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC)
 - [MCP 구조 분석 - Orchestration Layer](https://velog.io/@be_zion/MCP-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D-Orchestration-Layer)
 - [MCP&lpar;Model Context Protocol&rpar; 구조 분석 – 로컬 MCP 서버 구현](https://velog.io/@be_zion/MCPModel-Context-Protocol-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D-%EB%A1%9C%EC%BB%AC-MCP-%EC%84%9C%EB%B2%84-%EA%B5%AC%ED%98%84)
-- [[Contribution] Spring Data JPA: Jakarta Persistence 4.0 규격 반영 및 파서 최신화](https://velog.io/@be_zion/Contribution-Spring-Data-JPA-Jakarta-Persistence-4.0-%EA%B7%9C%EA%B2%A9-%EB%B0%98%EC%98%81-%EB%B0%8F-%ED%8C%8C%EC%84%9C-%EC%B5%9C%EC%8B%A0%ED%99%94)
 <!-- LATEST_BLOG_POSTS:END -->
 
 
